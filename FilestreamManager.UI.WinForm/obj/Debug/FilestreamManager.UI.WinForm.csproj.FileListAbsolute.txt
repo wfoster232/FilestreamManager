@@ -1,0 +1,1 @@
+D:\GitHub\FilestreamManager\FilestreamManager.UI.WinForm\bin\Debug\FilestreamManager.UI.WinForm.exe.config
